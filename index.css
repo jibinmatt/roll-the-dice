@@ -137,9 +137,7 @@
   }
   
   .high-score {
-    position: absolute;
-    left: 1028px;
-    top: 259px;
+    margin: 1rem 0 1rem 0;
   }
   
   .text-level-3{
